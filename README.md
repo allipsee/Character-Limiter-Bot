@@ -1,3 +1,10 @@
 # Anti-Spam-Bot
 A bot that prevents users from spamming, you can set how many messages in one line and other things! Prefix is . and do .help.
+BOT IS STILL IN DEVELOPMENT
+
+How to invite the bot? Unfortunately you can't invite the bot. BUT you can make it yourself pretty easily by copying the code from bot.py, and at the bottom it says TOKEN. In this field you must add the token of the bot you have created in https://discordapp.com/developers/applications/ and if you haven't made a bot yet, what you must do is: 1. Click on `New Application` name your bot and press `Create`. Your application is still not a bot. If you want you can give it a description. 2. Then head over to `Bot` which you will see bellow OAuth2, press `Add Bot` and click `Yes do it!` Gongratulations! Your bot is now created! You can give it a Profile Picture if you want. 3. Now you must invite your bot to the server you want. Go to OAuth2, go at the bottom and you will se some checkable boxes. Click the `bot` one and then scroll down where you will find more checkable boxes. There, click `Administrator` and hit the blue `Copy` button and open this link in a new page, select the server you want the bot and now you should see the bot offline! Don't forget to navigate to the `Bot` page again scroll up and hit the big blue `Copy` button.
+
+# Now this is the part to make the bot online!
+To make the bot online as I said above you must copy the `Token` of the bot the big blue button I said in the end, and then you must download an editor for programming, in my opinion the best is `Atom`. For you that you have a different one it is completely fine! Do whatever I say in your editor. Now paste the entire code from bot.py in a file on the editor, (make sure the file is .py or it won't work) and scroll down until you see this: https://gyazo.com/874da132a1a0cb51e6a3b37ea3952e26 . Where it says `Token` put the token of your bot! Then run the code and the bot should be online! Make sure to do .help so you can see the commands.
+
 # BOT IS STILL IN DEVELOPMENT
