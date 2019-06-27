@@ -8,3 +8,6 @@ How to invite the bot? Unfortunately you can't invite the bot. BUT you can make 
 To make the bot online as I said above you must copy the `Token` of the bot the big blue button I said in the end, and then you must download an editor for programming, in my opinion the best is `Atom`. For you that you have a different one it is completely fine! Do whatever I say in your editor. Now paste the entire code from bot.py in a file on the editor, (make sure the file is .py or it won't work) and scroll down until you see this: https://gyazo.com/874da132a1a0cb51e6a3b37ea3952e26 . Where it says `Token` put the token of your bot! Then run the code and the bot should be online! Make sure to do .help so you can see the commands. **DO NOT CHANGE ANYTHING IN THE CODE OR THE BOT WONT WORK. I AM NOT REPSONSIBLE FOR WHAT YOU DO IN THE CODE BUT YOU CAN COME HERE AND COPY THE RIGHT ONE**
 
 # BOT IS STILL IN DEVELOPMENT
+
+**NOTE** EVERY TIME THE BOT GOES OFFLINE AND THEN YOU RUN THE CODE TO BE ONLINE, YOU MUST SET THE LIMITS AND EVERYTHING YOU HAD SET FROM .help
+AGAIN
