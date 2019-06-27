@@ -11,3 +11,5 @@ To make the bot online as I said above you must copy the `Token` of the bot the 
 
 **NOTE** EVERY TIME THE BOT GOES OFFLINE AND THEN YOU RUN THE CODE TO BE ONLINE, YOU MUST SET THE LIMITS AND EVERYTHING YOU HAD SET FROM .help
 AGAIN
+
+# Support Server: https://discord.gg/GSbdMWs
