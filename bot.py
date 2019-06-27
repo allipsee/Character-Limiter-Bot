@@ -15,7 +15,7 @@ space = True
 @client.event
 async def on_ready():
     print("Bot is running")
-    await client.change_presence(activity=discord.Game(name="Do .help for help"))
+    await client.change_presence(activity=discord.Game(name="Do .help for the full list of the commands"))
 
 
 @client.command()
