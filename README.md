@@ -1,4 +1,4 @@
-# Character Limiter Bot
+# Character Limiter Bot for Discord Hack Week
 A bot that prevents users from spamming in one line for example you can set how many words there can be in a message like I set it 3 but If I do 1234 it will send a message that I have passed the limit and much more, Prefix is . and do .help
 BOT IS STILL IN DEVELOPMENT
 
