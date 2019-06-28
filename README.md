@@ -1,15 +1,12 @@
 <a href="https://github.com/allipsee/Character-Limiter-Bot/">	
     <img src="https://api.modmail.tk/badges/instances.svg" alt="Bot instances">	
   </a>
-
 <a href="https://discord.gg/KZMYvs2">
     <img src="https://img.shields.io/discord/515071617815019520.svg?style=for-the-badge&colorB=7289DA" alt="Support">
   </a>
-  
-  a href=<"https://github.com/allipsee/Character-Limiter-Bot/blob/master/LICENSE">
-    <img src="https://img.shields.io/badge/license-agpl-e74c3c.svg?style=for-the-badge" alt="GPL-3.0 ">
+  a href="https://github.com/allipsee/Character-Limiter-Bot/blob/master/LICENSE">
+    <img src="https://img.shields.io/badge/license-agpl-e74c3c.svg?style=for-the-badge" alt="MIT Lisence ">
   </a>
-
 
 
 # Character Limiter Bot for Discord Hack Week
