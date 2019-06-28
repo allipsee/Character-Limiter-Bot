@@ -11,9 +11,15 @@
 <a href="https://github.com/allipsee/Character-Limiter-Bot/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/license-agpl-e74c3c.svg?style=for-the-badge" alt="MIT Lisence ">
   </a>
+  
+  
+<div align="center">
+  <img src="https://media.discordapp.net/attachments/572425265066672150/594171759046164500/Character_Limiter_Bot.png" align="center">
+  <br>
+ <br>
+  <br>
+<strong><i>A cool bot for Discord.</i></strong>
 
-
-# Character Limiter Bot for Discord Hack Week
 A bot that prevents users from spamming in one line for example you can set how many words there can be in a message like I set it 3 but If I do 1234 it will send a message that I have passed the limit and much more, Prefix is . and do .help
 
 
