@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/discord/515071617815019520.svg?style=for-the-badge&colorB=7289DA" alt="Support">
   </a>
   
-  a href="https://github.com/allipsee/Character-Limiter-Bot/blob/master/LICENSE">
+  a href=<"https://github.com/allipsee/Character-Limiter-Bot/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/license-agpl-e74c3c.svg?style=for-the-badge" alt="GPL-3.0 ">
   </a>
 
