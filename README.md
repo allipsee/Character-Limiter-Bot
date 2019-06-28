@@ -1,3 +1,5 @@
+<strong><i>A cool bot for Discord.</i></strong>
+
 <a href="https://github.com/allipsee/Character-Limiter-Bot/">	
     <img src="https://api.modmail.tk/badges/instances.svg" alt="Bot instances">	
   </a>
